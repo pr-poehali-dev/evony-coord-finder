@@ -85,7 +85,7 @@ const Index = () => {
                     Монстры
                   </TabsTrigger>
                   <TabsTrigger value="castles" className="data-[state=active]:bg-evony-orange data-[state=active]:text-white">
-                    <Icon name="Castle" size={16} className="mr-2" />
+                    <Icon name="Building" size={16} className="mr-2" />
                     Замки
                   </TabsTrigger>
                   <TabsTrigger value="resources" className="data-[state=active]:bg-evony-orange data-[state=active]:text-white">
